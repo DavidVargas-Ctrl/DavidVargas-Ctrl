@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 😎 About Me:
 Exploring data analysis with a focus on machine learning.<br>Active ACM chapter member since early 2024, contributing to student-focused initiatives.<br>Driven by a passion for creativity and innovation in projects.<br>
 
 
