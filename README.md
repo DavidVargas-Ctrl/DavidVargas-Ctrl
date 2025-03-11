@@ -1,6 +1,22 @@
-# 😎 About Me:
-Exploring data analysis with a focus on machine learning.<br>Active ACM chapter member since early 2024, contributing to student-focused initiatives.<br>Driven by a passion for creativity and innovation in projects.<br>
+<div align="center">
+  <h2>Hi, I'm David, passionate about technology.</h2>
+</div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Android+and+Web+Developer;Full+Stack+Developer;AI+and+Data+Analysis+Learner;Cloud+Explorer;Passionate+about+Tech+Education" />
+</div>
+
+<p align="center" >
+ <img  height="280rem" alt="GIF" src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" />
+ </p>
+
+<div align="left">
+
+- 🚀 I am currently focused on advancing my projects in **Kotlin** and **web design**.  
+- 📊 I am improving my **data analysis** skills by learning **AI-driven techniques**.  
+- 🎓 As a **member of the ACM board**, I contribute to **educational activities** while learning from fellow members.  
+
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-felipe-vargas-cárdenas-13b02b317) 
