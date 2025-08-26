@@ -1,6 +1,10 @@
 <div align="center">
-  <h2>Hi, I'm David, passionate about technology.</h2>
+
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:13547a,100:80d0c7&text=David%20Vargas&section=header&reversal=false&textBg=false&fontSize=0&fontAlign=50&animation=fadeIn&fontColor=ffffff&desc=Frontend%20Web%20Developer%20|%20Full-Stack%20Experience%20|%20Data%20Analysis%20Enthusiast&descAlign=50&descAlignY=60&fontAlignY=40)
+
 </div>
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Android+and+Web+Developer;Full+Stack+Developer;AI+and+Data+Analysis+Learner;Cloud+Explorer;Passionate+about+Tech+Education" />
@@ -29,3 +33,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidVargas-Ctrl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![snake gif](https://github.com/DavidVargas-Ctrl/DavidVargas-Ctrl/blob/output/github-snake-dark.svg)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=0:13547a,100:80d0c7&section=footer&reversal=false&textBg=false&fontSize=0&fontAlign=50&animation=fadeIn&fontColor=ffffff&descAlign=50&descAlignY=60&fontAlignY=40)
